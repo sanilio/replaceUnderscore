@@ -21,8 +21,7 @@ To use the script in Windows:
         cmd >> script.py c:\ebooks
     
 
-Author: Sanil Sampat
-Date:   12 / 28 / 2011
+Original Date:   12 / 28 / 2011
 """
 
 import sys, os
