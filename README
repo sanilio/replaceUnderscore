@@ -1,0 +1,24 @@
+This script replaces underscores with blank spaces
+in filenames.
+
+It takes an input directory path in the command line,
+the directory and its subdirectories are scanned,
+and filetypes of pdf, djvu, txt, epub, chm or mp3
+can have their underscores replaced.
+
+The user may verify the look of the filenames
+before renaming them. The user may also modify
+this script to include additional file types.
+
+To use the script in Windows:
+
+    *run the command prompt
+    *type the name of the script and the desired directory
+
+    e.g.:
+
+        cmd >> script.py c:\ebooks
+    
+
+Author: Sanil Sampat
+Date:   12 / 28 / 2011
